@@ -11,6 +11,10 @@
   padding: 10px;
 }
 
+.filter-active {
+  background-color: blue;
+}
+
 .todoList-task {
 
 }
